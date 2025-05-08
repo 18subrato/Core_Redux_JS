@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "redux": "^5.0.1"
+  }
+}
